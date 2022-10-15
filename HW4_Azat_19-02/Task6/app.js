@@ -1,4 +1,4 @@
-var userString = prompt("Введите текст для переворота");
+var userString = prompt("Введите нужное вам слово");
 ReverseString(userString)
 function ReverseString(userString) {
     var reverseString = " ";
