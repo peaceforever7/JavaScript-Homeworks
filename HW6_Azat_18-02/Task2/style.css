@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    font-size: 18px;
+}
+
+body{
+    margin: 0px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 195px;
+    height: 290px;
+    background: lightblue;
+    border-radius: 10px;
+}
+.text  {
+    font-size: 40px;
+    margin: 20px;
+}
